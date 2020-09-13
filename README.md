@@ -6,3 +6,6 @@ For more info, please visit: https://www.cemetech.net/forum/viewtopic.php?p=2879
 ![Math Finder](https://github.com/jake01756/Math-Finder/blob/master/Screenshot.png?raw=true)
 ![Image 2](https://i.imgur.com/k1ypOto.png)
 ![Image 3](https://i.imgur.com/GDTZtM6.png)
+
+### Math Finder Product Activation Services
+Product Activaton Key: 89813250
