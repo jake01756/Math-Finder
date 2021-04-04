@@ -3,11 +3,7 @@ Math Finder is a program for the TI 84 Plus CE that can find the volumes and sur
 
 Now for some eye candy:
 
-![](https://i.imgur.com/IWB4n1Z.png)
-
-![](https://i.imgur.com/k1ypOto.png)
-
-![](https://i.imgur.com/GDTZtM6.png)
+![](https://i.imgur.com/IWB4n1Z.png) ![](https://i.imgur.com/k1ypOto.png) ![](https://i.imgur.com/GDTZtM6.png)
 
 
 Please note that screenshots will not be updated as frequently as the program.
