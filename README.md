@@ -96,5 +96,4 @@ A TI-Nspire CX II/TI-Nspire CX II CAS port might be possible and might happen so
 
 **Have any feature suggestions? Feel free to leave a comment on the [Cemetech thread](https://www.cemetech.net/forum/viewtopic.php?p=287950), and they might get added.**
 
-I hope you enjoy using Math Finder as much as I did making it. There is a big update coming soon. :D 
-Post last updated on 4/3/21.
+I hope you enjoy using Math Finder as much as I did making it. There is a big update coming soon.
