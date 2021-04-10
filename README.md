@@ -1,4 +1,4 @@
-# Math Finder v0.75
+# Math Finder v0.76
 Math Finder is a program for the TI 84 Plus CE that can find the volumes and surface areas of geometric shapes. It is still under heavy development but I thought I would share my progress with the Cemetech community. It is written entirely in TI-Basic to ensure that it would work on all OS versions. Originally I was going to write it using ICE Compiler but after some consideration, I wrote it in TI-Basic. This decision would pay off after TI decided on a whim to remove ASM support.
 
 Now for some eye candy:
